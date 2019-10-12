@@ -12,6 +12,7 @@ namespace Eng
         {
             Console.WriteLine("Year 255x semeater 1, I am an Engdu freahman");
             Console.WriteLine("Year 255x semeter 2, I Learn to program in C sharp.");
+            Console.WriteLine("Year 2560 semester 1, I start my programmer life.");
 
 
         }
